@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<Foundry>
-<VM>
-<ClientMetaData>
-<clientMetaDataAttributes/>
-<HistoryEventList/></ClientMetaData>
-<VMId type="string">52 9b 7e d3 33 fa 57 c7-1c ae 4f 8a f8 e5 07 6a</VMId>
-<vmxPathName type="string">ubuntu-22.04-amd64.vmx</vmxPathName></VM></Foundry>
